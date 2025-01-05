@@ -183,7 +183,7 @@ const AddressForm: React.FC<AddressFormProps> = ({ onClose, onAddressUpdate }) =
             <div style={{ marginBottom: '20px' }}>
               <label style={{ display: 'none' }}>Search Location:</label>
               <LoadScript
-                googleMapsApiKey="AIzaSyDCs4nW7KM6puPvZdcaMrjcFDX_Wk53XCk"
+                googleMapsApiKey=""
                 libraries={libraries}
               >
                 <Autocomplete

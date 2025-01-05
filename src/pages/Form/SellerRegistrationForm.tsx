@@ -22,7 +22,7 @@ const SellerRegistrationForm: React.FC = () => {
   const markerRef = useRef<google.maps.Marker | null>(null);
 
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "AIzaSyDCs4nW7KM6puPvZdcaMrjcFDX_Wk53XCk", // Replace with your actual API key
+    googleMapsApiKey: "", // Replace with your actual API key
     libraries: ["places"], // Include the "places" library for Autocomplete
   });
 
