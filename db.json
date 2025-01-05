@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "first Name": "Bhavesh",
+      "last Name": "Mattani",
+      "company": "Kshan Tech",
+      "primary Contact": 7066327993,
+      "secondary Contact": 1122331121,
+      "email": "mattani.bhavesh@gmail.com",
+      "job Category": "Full Stack Developer",
+      "company Website": "kshantechsoft.com",
+      "account Status": "Active",
+      "company Location": "Baner,Pune"
+    },
+    {
+      "id": "2",
+      "first Name": "Sahil",
+      "last Name": "Mohite",
+      "company": "Kshan Tech",
+      "primary Contact": 2356478996,
+      "secondary Contact": 9874563210,
+      "email": "sahil.karad@gmail.com",
+      "job Category": "Full Stack Developer",
+      "company Website": "kshantechsoft.com",
+      "account Status": "Active",
+      "company Location": "Baner,Pune"
+    },
+    {
+      "first Name": "Rahul",
+      "last Name": "Deshpande",
+      "company": "Kshan Tech",
+      "primary Contact": 8649731658,
+      "secondary Contact": 5849654785,
+      "email": "rahul.deshpande@gmail.com",
+      "job Category": "Full Stack Developer",
+      "company Website": "kshantechsoft.com",
+      "account Status": "notActive",
+      "company Location": "Baner,Pune",
+      "id": "3"
+    },
+    {
+      "id": "39c9",
+      "first Name": "Samay",
+      "last Name": "Deshpande",
+      "company": "Kshan Tech",
+      "primary Contact": 8649731658,
+      "secondary Contact": 5849654785,
+      "email": "rahul.deshpande@gmail.com",
+      "job Category": "Full Stack Developer",
+      "company Website": "kshantechsoft.com",
+      "account Status": "Active",
+      "company Location": "Baner,Pune"
+    }
+  ]
+}
