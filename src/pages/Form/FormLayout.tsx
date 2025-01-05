@@ -278,7 +278,7 @@ const AddressForm: React.FC<AddressFormProps> = ({ onClose, onAddressUpdate }) =
         </div>
         <div style={mapStyle}>
           <LoadScript
-            googleMapsApiKey="AIzaSyDCs4nW7KM6puPvZdcaMrjcFDX_Wk53XCk"
+            googleMapsApiKey=""
             libraries={libraries}
           >
             <GoogleMap
